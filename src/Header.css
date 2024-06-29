@@ -1,0 +1,338 @@
+
+
+.logos{
+    margin-left: 600px;
+}
+
+.caur{
+    margin-top: -50px;
+   
+   
+    
+
+    
+}
+
+
+
+.navbr{
+    
+        position: initial;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+        
+ 
+}
+
+.bt{
+    width: 280px;
+    height: 80px;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-bottom: 200px;
+    font-size: 17px;
+    font-weight: bolder;
+    color: white;
+    background-color: rgba(255, 255, 255, .2);
+
+}
+
+.bt:hover{
+    color: black;
+    background-color: white;
+
+
+}
+
+.bt1{
+    width: 300px;
+    height: 90px;
+    font-size: 17px;
+    border: none;
+    
+    font-weight: bolder;
+    color: white;
+
+    background: linear-gradient(to left, black 50%, white 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+
+    transition: all .5s ease-out;
+    
+}
+
+.bt1:hover{
+    background-position: left bottom;
+
+   /* background-color: white;*/
+    color: black;
+    
+}
+
+
+/*.carousel-indicators button{
+    background-color: red!important;
+    }*/
+
+    .carousel-indicators button {
+        width: 0.4rem !important;
+        height: 0.4rem !important;
+        border-radius: 50%;
+      }
+      
+      .carousel-indicators button:not(:first-child) {
+        margin-left: 0.5rem;
+      }
+      
+      .carousel-indicators .active {
+        background-color: #ff7a54;
+      }
+
+
+
+
+      .caur1{
+        margin-left: -13px;
+    
+
+      }
+
+      .ddiv{
+        background-color: rgba(220, 220, 220, 0.842);
+      }
+
+
+
+      .bt2{
+        width: 300px;
+        height: 90px;
+        font-size: 17px;
+        border: none;
+        
+        font-weight: bolder;
+        color: black;
+    
+        background: linear-gradient(to left, white 50%, black 50%);
+        background-size: 200% 100%;
+        background-position: right bottom;
+    
+        transition: all .5s ease-out;
+        
+    }
+    
+    .bt2:hover{
+        background-position: left bottom;
+    
+       /* background-color: white;*/
+        color: white;
+        
+    }
+
+.ddiv1{
+    
+    
+}
+
+.ddiv2{
+    background-color: aliceblue;
+}
+
+.h11{
+    margin-top: 150px;
+}
+
+.ddiv3{
+    background-color: rgba(255, 255, 0, 0.519);
+}
+
+.caur2{
+    margin-right: -12px;
+}
+
+.h12{
+    margin-top: 200px;
+    
+}
+
+.inter{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.btt{
+    margin-left: 175px;
+    width: 150px;
+    padding: 10px;
+    color: white;
+    border: 2px solid white;
+    font-weight: bolder;
+
+    background: linear-gradient(to left, black 50%, white 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+
+    transition: all .5s ease-out;
+    
+}
+
+.btt:hover{
+    background-position: left bottom;
+
+   /* background-color: white;*/
+    color: black;
+    
+}
+
+
+
+.cl{
+    color: rgb(231, 174, 32);
+    transform-style: flat;
+}
+
+.bl{
+    font-weight: bolder;
+}
+
+.up{
+    margin-top: -23px;
+}
+
+.up1{
+    margin-top: -10px;
+}
+
+.fnt{
+    font-size: 25px;
+}
+
+.hei1{
+    height: 670px;
+}
+
+.hei2{
+    height: 640px;
+}
+
+.hei3{
+    height: 700px;
+
+}
+
+.hei4{
+    height: 620px;
+
+}
+
+.hei5{
+    height: 635px;
+}
+
+.hei6{
+    height: 670px;
+}
+
+.hei7{
+    height: 900px;
+}
+
+
+@media (max-width: 767px) {
+    .bt{
+        
+        height: 40px;
+        width: 200px;
+        margin-bottom: -30px;
+       
+
+   }
+   .fnt{
+    font-size: 20px;
+    padding-left: 7px;
+    padding-right: 10px;
+}
+
+.bt1,.bt2{
+    height: 65px;
+    width: 220px;
+    margin-left: 75px;
+}
+
+.hei1,.hei2{
+    height: 850px;
+}
+
+.hei3{
+    height: 900px;
+}
+
+.hei4{
+    height: 710px;
+}
+
+.hei5{
+    height: 700px;
+}
+
+.caur2{
+    position: absolute;
+    
+    
+}
+
+.caurr1{
+    position: relative;
+    z-index: 2;
+    
+}
+
+.hei6{
+    height: 100px;
+}
+
+.fnt1{
+    margin-left: 120px;
+}
+
+.hei7{
+    margin-top: 0px;
+    height: 0px;
+    position: absolute;
+    margin-left: 50px;
+    
+    
+}
+
+.open{
+    height: 600px;
+}
+
+
+.rtr1{
+    margin-top: 25px;
+
+
+
+
+
+
+ 
+  }
+
+  .ght6{
+    margin-top: 900px;
+  }
+
+  .hei51{
+    margin-top: 190px;
+  }
+
+}
+
+
+
+
+
+
+
