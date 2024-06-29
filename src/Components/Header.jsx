@@ -26,7 +26,7 @@ function Header() {
   return (
     <div style={{width: '100%', height: '50px'}}>
     <nav className='align-items-center'>
-        <Link to={'/'} className='logo1'> <img src="Images/logo.png" width="130" height="70" alt="logo" /></Link>
+        <Link to={'/'} className='logo1'> <img src="/logo.png" width="130" height="70" alt="logo" /></Link>
         <div className="burger-menu" onClick={updateMenu}>
             <div className={burger_class} ></div>
             <div className={burger_class} ></div>

@@ -23,7 +23,7 @@ function TestRide() {
         
     <div className='row d-flex align-items-center justify-content-center mt-5 '>
     <Card style={{ width: '400px', height:'300px' }} className='bg-white'>
-      <Card.Img variant="top" src="Images/Norton_banner28.webp" height={'270px'} width={'400px'} className='lt'/>
+      <Card.Img variant="top" src="/Norton_banner28.webp" height={'270px'} width={'400px'} className='lt'/>
       <Card.Body className='bg-white '>
         <Card.Title className='text-center pb-2 text-black test4' style={{height:'10px'}}>COMMANDO 961 SP</Card.Title>
         <Card.Text>
@@ -32,7 +32,7 @@ function TestRide() {
     </Card>
 
     <Card style={{ width: '400px', height:'300px' }} className='ms-2 bg-white'>
-      <Card.Img variant="top" src="Images/Norton_banner27.webp" height={'270px'}  className='lt'/>
+      <Card.Img variant="top" src="/Norton_banner27.webp" height={'270px'}  className='lt'/>
       <Card.Body  className='bg-white'>
         <Card.Title className='text-center pb-2 text-black test4' style={{height:'10px'}}>COMMANDO 961 CR</Card.Title>
         <Card.Text>
@@ -41,7 +41,7 @@ function TestRide() {
     </Card>
 
     <Card style={{ width: '400px', height:'300px' }} className='ms-2 bg-white '>
-      <Card.Img variant="top" src="Images/Norton_banner29.webp" height={'270px'}  className='lt'/>
+      <Card.Img variant="top" src="/Norton_banner29.webp" height={'270px'}  className='lt'/>
       <Card.Body  className='bg-white'>
         <Card.Title className='text-center pb-2 text-black test4' style={{height:'10px'}}>V4SV</Card.Title>
         <Card.Text>

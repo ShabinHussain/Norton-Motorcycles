@@ -26,7 +26,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner30.jpg"
+          src="/Norton_banner30.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -38,7 +38,7 @@ function Home() {
       <Carousel.Item>
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner2.jpg"
+          src="/Norton_banner2.jpg"
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -50,7 +50,7 @@ function Home() {
       <Carousel.Item>
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner3.jpg"
+          src="/Norton_banner3.jpg"
           alt="Third slide"
         />
         <Carousel.Caption>
@@ -62,7 +62,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner4.jpg"
+          src="/Norton_banner4.jpg"
           alt="Fourth slide"
         />
         <Carousel.Caption>
@@ -79,7 +79,7 @@ function Home() {
           <div className="row">
             <div className="col-md-1"></div>
             <div className="col-md-10">
-            <img src="./Images/Commando-961-logov2.png" alt="logo" width={'167px'} height={'70px'} className='mt-5 pt-4'/>
+            <img src="/Commando-961-logov2.png" alt="logo" width={'167px'} height={'70px'} className='mt-5 pt-4'/>
             <h5 className='mt-5 text-black'>NORTON COMMANDO 961</h5>
             <p className=' pt-4 text-black fnt'>The Commando name has been a byword for the pinnacle of British motorcycling for decades and this new Commando, manufactured less than ten miles from where Norton was founded 125 years ago, is no different. Cutting edge engineering, world class components and ride quality you’ve only dreamt of.</p>
             <button className='bt2'>DISCOVER</button>
@@ -97,7 +97,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner9.png"
+          src="/Norton_banner9.png"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -107,7 +107,7 @@ function Home() {
       <Carousel.Item>
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner10.png"
+          src="/Norton_banner10.png"
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -117,7 +117,7 @@ function Home() {
       <Carousel.Item>
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner11.jpg"
+          src="/Norton_banner11.jpg"
           alt="Third slide"
         />
         <Carousel.Caption>
@@ -140,7 +140,7 @@ function Home() {
           <div className="row">
             <div className="col-md-1"></div>
             <div className="col-md-10">
-            <img src="./Images/V4SV-MODEL-LOGO.png" alt="logo" width={'167px'} height={'70px'} className='mt-5 pt-4'/>
+            <img src="/V4SV-MODEL-LOGO.png" alt="logo" width={'167px'} height={'70px'} className='mt-5 pt-4'/>
             <h5 className='mt-5 text-white'>THE MARQUE OF SOMETHING SPECIAL</h5>
             <p className='fs-5 pt-4 text-white fnt'>The new re-engineered V4SV is the most luxurious British superbike ever created. The only British built and designed superbike in production. The speed, the handling, the feeling... Nothing comes close to it. The Isle of Man TT is where the V4SV was imagined, the road is where it was born.</p>
             <button className='bt1'>DISCOVER</button>
@@ -158,7 +158,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner12.jpg"
+          src="/Norton_banner12.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -168,7 +168,7 @@ function Home() {
       <Carousel.Item>
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner13.jpg"
+          src="/Norton_banner13.jpg"
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -178,7 +178,7 @@ function Home() {
       <Carousel.Item>
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner14.jpg"
+          src="/Norton_banner14.jpg"
           alt="Third slide"
         />
         <Carousel.Caption>
@@ -200,7 +200,7 @@ function Home() {
           <div className="row">
             <div className="col-md-1"></div>
             <div className="col-md-10">
-            <img src="./Images/V4CR-MODEL-LOGO.png" alt="logo" width={'167px'} height={'70px'} className='mt-5 pt-4'/>
+            <img src="/V4CR-MODEL-LOGO.png" alt="logo" width={'167px'} height={'70px'} className='mt-5 pt-4'/>
             <h5 className='mt-5 text-black'>MAKE SPACE</h5>
             <p className='fs-5 pt-4 text-black fnt'>The V4 Café Racer is the rebellious younger brother to the V4SV, sharing the same superbike DNA but differing in attitude and emotion. It’s stripped-back fairing reveals Norton’s technical artistry and craftmanship, naked with nothing to hide. And while the V4CR embraces nostalgic design cues and Norton character, it’s all about the present moment. A modern incarnation of the past.</p>
             <button className='bt2'>DISCOVER</button>
@@ -218,7 +218,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner15.png"
+          src="/Norton_banner15.png"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -228,7 +228,7 @@ function Home() {
       <Carousel.Item>
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner16.png"
+          src="/Norton_banner16.png"
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -238,7 +238,7 @@ function Home() {
       <Carousel.Item>
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner17.png"
+          src="/Norton_banner17.png"
           alt="Third slide"
         />
         <Carousel.Caption>
@@ -277,7 +277,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner6.jpg"
+          src="/Norton_banner6.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -287,7 +287,7 @@ function Home() {
       <Carousel.Item>
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner5.jpg"
+          src="/Norton_banner5.jpg"
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -297,7 +297,7 @@ function Home() {
       <Carousel.Item>
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner7.jpg"
+          src="/Norton_banner7.jpg"
           alt="Third slide"
         />
         <Carousel.Caption>
@@ -308,7 +308,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner8.jpg"
+          src="/Norton_banner8.jpg"
           alt="Fourth slide"
         />
         <Carousel.Caption>
@@ -347,7 +347,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner18.jpg"
+          src="/Norton_banner18.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -371,7 +371,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner19.jpg"
+          src="/Norton_banner19.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -429,7 +429,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner20.jpg"
+          src="/Norton_banner20.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -473,7 +473,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner21.jpg"
+          src="/Norton_banner21.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -484,7 +484,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner22.jpg"
+          src="/Norton_banner22.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -511,7 +511,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner23.webp"
+          src="/Norton_banner23.webp"
           alt="First slide"
           height={'500px'}
         />
@@ -528,7 +528,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner24.webp"
+          src="/Norton_banner24.webp"
           alt="First slide"
           height={'500px'}
 
@@ -544,7 +544,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner25.webp"
+          src="/Norton_banner25.webp"
           alt="First slide"
           height={'500px'}
 
@@ -560,7 +560,7 @@ function Home() {
       <Carousel.Item >
       <img
           className="d-block w-100"
-          src="./Images/Norton_banner26.webp"
+          src="/Norton_banner26.webp"
           alt="First slide"
           height={'500px'}
 

@@ -26,7 +26,7 @@ function Headertest() {
   return (
     <div style={{width: '100%', height: '50px'}}>
     <nav className='align-items-center'>
-        <Link to={'/'} className='logo'> <img src="Images/Norton_logotest.webp" width="130" height="20" alt="logo" /></Link>
+        <Link to={'/'} className='logo'> <img src="/Norton_logotest.webp" width="130" height="20" alt="logo" /></Link>
         <div className="burger-menu" onClick={updateMenu}>
             <div className={burger_class} ></div>
             <div className={burger_class} ></div>
